@@ -21,6 +21,9 @@ A Retrieval-Augmented Generation (RAG) project that uses document retrieval and 
 3. Run the notebook cells in order.
 4. Enter a question about your document and inspect the response.
 
+## Run in Google Colab
+[Open Notebook in Google Colab](https://colab.research.google.com/drive/1KAewMJj6xu1fK_ACAF6lQj0_cqun2POi?usp=sharing)
+
 ## Project Demo
 ![RAG Project Screenshot](https://github.com/user-attachments/assets/0eb74a63-8950-4629-ace4-1aa229ac1eab)
 
