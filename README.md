@@ -2,6 +2,9 @@
 
 ## Overview
 A Retrieval-Augmented Generation (RAG) project that uses document retrieval and a language model to answer questions based on provided documents.
+The system retrieves the most relevant information from the uploaded documents before generating context-aware and accurate responses.
+It combines semantic search with LLM-based generation to provide reliable answers while reducing irrelevant or unsupported responses.
+
 
 ## Features
 - Document loading and processing
